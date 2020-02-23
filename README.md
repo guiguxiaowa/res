@@ -1,1 +1,1 @@
-# resourse pack for littlefrog.com.cn
+# Resourse pack for littlefrog.com.cn
